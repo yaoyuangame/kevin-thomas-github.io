@@ -1,6 +1,6 @@
 {
-  "bannerInterval":10,
+  "bannerInterval":18,
   "beautysNative":3,
   "nativeCloseTime":5,
-  "interstitialInterval":5
+  "interstitialInterval":50
 }
